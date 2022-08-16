@@ -227,3 +227,5 @@ draw.circle(x = 25, y = 25, radius = 12.62, border = 'blue', lty = 1) # 500 m2 f
 
 # add samples from non-forest to sampling frame as 0's
 # first step: extend sampling grid
+
+# and continue
