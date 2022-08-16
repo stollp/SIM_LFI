@@ -224,3 +224,5 @@ points(25,     25, pch = '+', col = 'blue', lwd = 1)
 draw.circle(x = 25, y = 25, radius =  7.98, border = 'blue', lty = 2) # 200 m2 for trees >= 12 cm dbh < 36 cm
 draw.circle(x = 25, y = 25, radius = 12.62, border = 'blue', lty = 1) # 500 m2 for trees >= 36 cm dbh
 }
+
+# add samples from non-forest to sampling frame as 0's
